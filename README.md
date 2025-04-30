@@ -1,2 +1,2 @@
 # dice_rolling_tkinter
-The program is written pyhton and Tkinter which is a GUI is used for better user interactivity.
+The program is written in Python and uses Tkinter, a GUI for better user interactivity.
